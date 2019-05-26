@@ -1,7 +1,7 @@
 # Site settings
 title: Crazy Hams
 description: Ham Radio guys with an extra of madness ツ
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://crazyhams.dev" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
@@ -9,7 +9,7 @@ username: crazyhams
 user_description: Ham Radio Operators
 email: weare@crazyhams.dev
 twitter_username:
-github_username:  crazyhams
+github_username: crazyhams
 gplus_username:
 disqus_username:
 
