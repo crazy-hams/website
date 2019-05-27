@@ -3,5 +3,11 @@
   "context": "http://schema.org/",
   "name": "Crazy Hams",
   "url": "https://crazyhams.dev",
-  "message": "Build yourself your own web frontend. We are doing AM radio in 40m"
+  "message": "Build yourself your own web frontend. We are doing AM radio in 40m",
+  "links": {
+    "github": "https://github.com/crazy-hams",
+    "slack": "https://crazy-hams.slack.com",
+    "docker": "https://cloud.docker.com/u/crazyhams",
+    "mail": "weare@crazyhams.dev"
+  }
 }
