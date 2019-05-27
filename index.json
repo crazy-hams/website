@@ -6,17 +6,19 @@
   "message": "Build yourself your own web frontend. We are doing AM radio in 40m",
   "data": {
     "body": "We are a team of ham radio operators that dared to disrupt the
-    status quo in the ham radio community. Today, the degree of obsolescence
-    present in the technologies surrounding the hobby is dangerously high. Most
-    of the widespread services are managed only by a few individuals and the
-    risk to find ourselves in a cross road with a legacy park of technologies
-    not able to operate in the future is a damn reality. Understanding the
-    current situation is risky for all of us, for the future of the hobby and
-    the ham community, we understand we must do something now. In few words we
-    want to standardize the technologies in use. We want to reengineer those
-    elements that are obsolete. We want to democratize technologies and
-    knowledge. You can colaborate or stay expectant. In any case, stay tuned.
-    We are going to make history, unfortunately.",
+             status quo in the ham radio community. Today, the degree of
+             obsolescence present in the technologies surrounding the hobby is
+             dangerously high. Most of the widespread services are managed only
+             by a few individuals and the risk to find ourselves in a cross
+             road with a legacy park of technologies not able to operate in the
+             future is a damn reality. Understanding the current situation is
+             risky for all of us, for the future of the hobby and the ham
+             community, we understand we must do something now. In few words we
+             want to standardize the technologies in use. We want to reengineer
+             those elements that are obsolete. We want to democratize
+             technologies and knowledge. You can colaborate or stay expectant.
+             In any case, stay tuned.  We are going to make history,
+             unfortunately.",
     "links": {
       "github": "https://github.com/crazy-hams",
       "slack": "https://crazy-hams.slack.com",
